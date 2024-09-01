@@ -12,7 +12,7 @@ const About = () => {
     { 
       id: 1,
       className: "img-fluid rounded w-100 wow zoomIn",
-      img: "mages/about2.jpeg",
+      img: "images/about2.jpeg",
       alt: "Educational journey illustration"
     },
     { 
